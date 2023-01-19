@@ -90,6 +90,17 @@ h6 {
   /*border: 8px solid #2c2f3f;*/
 }
 
+.nav-menu a.logo img {
+  margin-right: 6px;
+  display: block;
+  width: 27px;
+  /*border: 8px solid #2c2f3f;*/
+}
+
+.logo-link-img {
+  width: 30px;
+}
+
 #header .profile h1 {
   font-size: 24px;
   margin: 0;
